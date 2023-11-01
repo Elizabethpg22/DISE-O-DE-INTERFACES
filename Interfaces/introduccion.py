@@ -8,3 +8,8 @@ def suma ():
     print(a+b+c)
 
 suma()
+
+def mostrar():
+    print('Esta es una peuba mas ')
+
+mostrar()
